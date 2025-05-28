@@ -30,8 +30,8 @@ Certain macroeconomic features were highly influential in both tasks.
 Predicting national credit ratings is more challenging due to class imbalance and complex interdependencies.
 
 ## Data Source
-[World Bank Open Data](https://data.worldbank.org/)
-[ILO](https://www.ilo.org/topics/wages/minimum-wages)
+[World Bank Open Data](https://data.worldbank.org/) /
+[ILO](https://www.ilo.org/topics/wages/minimum-wages) /
 [tradingeconomics](https://tradingeconomics.com/country-list/rating)
 
 ## Team 8 Members

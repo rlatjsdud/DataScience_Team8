@@ -1,5 +1,5 @@
 # DataScience_Team8
-Forecasting Inflation and Sovereign Credit Ratings Using Macroeconomic Indicators
+Forecasting CPI and National Credit Rating Using Macroeconomic Indicators
 
 ## Overview
 This project aims to predict inflation rates and sovereign credit ratings based on various macroeconomic indicators using machine learning techniques. We employ both regression and classification models to analyze how economic conditions influence national financial outcomes.
